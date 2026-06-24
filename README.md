@@ -11,3 +11,15 @@ This repository contains my LeetCode submissions and practice solutions.
 
 - Track problem-solving progress.
 - Maintain a clean reference of solved LeetCode questions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
