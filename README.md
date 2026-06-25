@@ -19,6 +19,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/AkshtSingh/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
