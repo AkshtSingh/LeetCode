@@ -20,6 +20,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -54,6 +55,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
