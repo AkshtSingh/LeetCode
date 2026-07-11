@@ -27,6 +27,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AkshtSingh/LeetCode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/AkshtSingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshtSingh/LeetCode/tree/master/0704-binary-search) |
@@ -117,6 +118,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AkshtSingh/LeetCode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/AkshtSingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshtSingh/LeetCode/tree/master/0704-binary-search) |
