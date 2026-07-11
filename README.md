@@ -20,6 +20,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0493-reverse-pairs](https://github.com/AkshtSingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/AkshtSingh/LeetCode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
