@@ -23,6 +23,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0056-merge-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AkshtSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -50,6 +51,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
