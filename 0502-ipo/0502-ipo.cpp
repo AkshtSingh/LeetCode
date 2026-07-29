@@ -20,7 +20,6 @@ public:
             if(pq.empty()){
                 break;
             }
-            cout<<pq.top()<<endl;
             ans+=pq.top();
             pq.pop();
             
