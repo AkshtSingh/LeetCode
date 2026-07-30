@@ -18,6 +18,7 @@ This repository contains my LeetCode submissions and practice solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AkshtSingh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -67,6 +68,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkshtSingh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
@@ -121,6 +123,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkshtSingh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/AkshtSingh/LeetCode/tree/master/0502-ipo) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
