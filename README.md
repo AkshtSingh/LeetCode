@@ -63,6 +63,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshtSingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AkshtSingh/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -85,6 +86,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshtSingh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshtSingh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -160,6 +163,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshtSingh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
