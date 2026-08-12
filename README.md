@@ -50,6 +50,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AkshtSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshtSingh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AkshtSingh/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -66,6 +67,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshtSingh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AkshtSingh/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/AkshtSingh/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkshtSingh/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -167,6 +169,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshtSingh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshtSingh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
