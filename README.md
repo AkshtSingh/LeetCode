@@ -34,6 +34,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshtSingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/AkshtSingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/AkshtSingh/LeetCode/tree/master/0502-ipo) |
@@ -95,6 +96,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshtSingh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshtSingh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/AkshtSingh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -278,4 +281,13 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
