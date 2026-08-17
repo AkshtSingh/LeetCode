@@ -63,6 +63,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0001-two-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshtSingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -86,6 +87,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshtSingh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
@@ -260,4 +262,12 @@ This repository contains my LeetCode submissions and practice solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshtSingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
