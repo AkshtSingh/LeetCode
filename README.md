@@ -65,6 +65,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -79,6 +80,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/AkshtSingh/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshtSingh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -274,4 +277,5 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
