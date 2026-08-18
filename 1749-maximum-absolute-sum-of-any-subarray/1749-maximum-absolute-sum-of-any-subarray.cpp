@@ -10,7 +10,7 @@ public:
             maxsum=max(prevmax+nums[i],nums[i]);
             minsum=min(prevmin+nums[i],nums[i]);
             
-            res=max({maxsum,abs(minsum),res});
+            res=max({abs(maxsum),abs(minsum),res});
 
         }
         return res;
