@@ -44,6 +44,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0704-binary-search](https://github.com/AkshtSingh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AkshtSingh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshtSingh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AkshtSingh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkshtSingh/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -127,6 +128,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshtSingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/AkshtSingh/LeetCode/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkshtSingh/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AkshtSingh/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -257,6 +259,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0053-maximum-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkshtSingh/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -314,4 +317,12 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0143-reorder-list](https://github.com/AkshtSingh/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
