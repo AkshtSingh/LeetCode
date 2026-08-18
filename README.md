@@ -54,6 +54,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshtSingh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AkshtSingh/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AkshtSingh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/AkshtSingh/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkshtSingh/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -73,6 +74,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshtSingh/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AkshtSingh/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AkshtSingh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AkshtSingh/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkshtSingh/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AkshtSingh/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
