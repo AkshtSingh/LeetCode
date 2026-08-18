@@ -51,6 +51,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshtSingh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AkshtSingh/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AkshtSingh/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AkshtSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -257,6 +258,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0152-maximum-product-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkshtSingh/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
