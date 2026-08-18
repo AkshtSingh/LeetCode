@@ -9,11 +9,8 @@ public:
             int prevmin=minsum;
             maxsum=max(prevmax+nums[i],nums[i]);
             minsum=min(prevmin+nums[i],nums[i]);
-            if(minsum<0){
-
-            res=max({maxsum,-minsum,res});
-            }
-            res=max({maxsum,minsum,res});
+            
+            res=max({maxsum,abs(minsum),res});
 
         }
         return res;
