@@ -181,6 +181,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshtSingh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -266,6 +267,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0152-maximum-product-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkshtSingh/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
