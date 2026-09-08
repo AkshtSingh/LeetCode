@@ -77,6 +77,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AkshtSingh/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AkshtSingh/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
@@ -184,6 +185,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkshtSingh/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AkshtSingh/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
