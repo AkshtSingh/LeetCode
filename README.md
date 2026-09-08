@@ -77,6 +77,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AkshtSingh/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AkshtSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AkshtSingh/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,6 +128,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0075-sort-colors](https://github.com/AkshtSingh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshtSingh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AkshtSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/AkshtSingh/LeetCode/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshtSingh/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -185,6 +187,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkshtSingh/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AkshtSingh/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AkshtSingh/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
