@@ -76,6 +76,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -153,6 +154,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkshtSingh/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -180,6 +182,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshtSingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/AkshtSingh/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkshtSingh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0940-distinct-subsequences-ii) |
