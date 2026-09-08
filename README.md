@@ -93,6 +93,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3870-count-commas-in-range](https://github.com/AkshtSingh/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
