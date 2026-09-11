@@ -246,6 +246,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AkshtSingh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -302,6 +303,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AkshtSingh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Indexed Tree
 |  |
@@ -366,9 +368,11 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
