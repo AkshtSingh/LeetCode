@@ -1,0 +1,15 @@
+class Solution {
+public:
+    long long countCommas(long long n) {
+        long long ans = 0;
+        long long threshold = 1000;
+
+        while (n >= threshold) {
+            ans += (n - threshold + 1);
+            if (threshold > LLONG_MAX / 1000) break; // prevent 64-bit overflow
+            threshold *= 1000;
+        }
+
+        return ans;
+    }
+};
