@@ -102,6 +102,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/AkshtSingh/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/AkshtSingh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
