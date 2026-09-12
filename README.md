@@ -310,6 +310,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AkshtSingh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -324,6 +325,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/AkshtSingh/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshtSingh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -337,6 +339,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkshtSingh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/AkshtSingh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -378,6 +381,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -386,6 +390,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0100-same-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
