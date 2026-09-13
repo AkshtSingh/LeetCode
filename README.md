@@ -46,6 +46,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0502-ipo](https://github.com/AkshtSingh/LeetCode/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshtSingh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshtSingh/LeetCode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/AkshtSingh/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/AkshtSingh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AkshtSingh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -275,6 +276,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkshtSingh/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/AkshtSingh/LeetCode/tree/master/0835-image-overlap) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AkshtSingh/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
