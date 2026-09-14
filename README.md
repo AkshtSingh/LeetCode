@@ -102,6 +102,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0007-reverse-integer](https://github.com/AkshtSingh/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/AkshtSingh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/AkshtSingh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AkshtSingh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -397,4 +398,8 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/AkshtSingh/LeetCode/tree/master/0226-invert-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AkshtSingh/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
