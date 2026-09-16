@@ -103,6 +103,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0066-plus-one](https://github.com/AkshtSingh/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/AkshtSingh/LeetCode/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/AkshtSingh/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkshtSingh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/AkshtSingh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AkshtSingh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -177,6 +178,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/AkshtSingh/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshtSingh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkshtSingh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AkshtSingh/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AkshtSingh/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
@@ -302,6 +304,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0918-maximum-sum-circular-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/AkshtSingh/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkshtSingh/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkshtSingh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -402,4 +405,8 @@ This repository contains my LeetCode submissions and practice solutions.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AkshtSingh/LeetCode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkshtSingh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
