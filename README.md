@@ -130,6 +130,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0287-find-the-duplicate-number](https://github.com/AkshtSingh/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AkshtSingh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkshtSingh/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [0502-ipo](https://github.com/AkshtSingh/LeetCode/tree/master/0502-ipo) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AkshtSingh/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkshtSingh/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -212,6 +214,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AkshtSingh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshtSingh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AkshtSingh/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkshtSingh/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -306,6 +309,7 @@ This repository contains my LeetCode submissions and practice solutions.
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AkshtSingh/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AkshtSingh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AkshtSingh/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AkshtSingh/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/AkshtSingh/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
