@@ -115,6 +115,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AkshtSingh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AkshtSingh/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshtSingh/LeetCode/tree/master/0018-4sum) |
@@ -207,6 +208,7 @@ This repository contains my LeetCode submissions and practice solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshtSingh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AkshtSingh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -311,6 +313,7 @@ This repository contains my LeetCode submissions and practice solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/AkshtSingh/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/AkshtSingh/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -430,4 +433,8 @@ This repository contains my LeetCode submissions and practice solutions.
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/AkshtSingh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshtSingh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
